@@ -13,15 +13,6 @@ Building AI-powered applications, scalable web platforms, and solving real-world
 
 💻 Passionate about Full Stack Development, AI, Machine Learning, and System Design
 
-🌱 Currently learning:
-- Advanced AI Engineering
-- LangChain & Agentic AI
-- System Design
-- Data Structures & Algorithms
-
-🎯 Goal:
-Build impactful AI products that solve real-world problems and scale to thousands of users.
-
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages
@@ -142,75 +133,6 @@ Build impactful AI products that solve real-world problems and scale to thousand
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System_Design-FF5722?style=for-the-badge)
 ![Advanced LangChain](https://img.shields.io/badge/Advanced_LangChain-00A67E?style=for-the-badge)
-## 🌟 Featured Projects
-
-### 🎯 Algo Animate
-AI-powered DSA learning platform that generates:
-- Brute Force & Optimized Approaches
-- Complexity Analysis
-- Dry Runs
-- Multi-language Code
-- AI Chatbot Assistant
-- Visual Learning Support
-
-**Tech:** Next.js • Gemini AI • Tailwind CSS • PostgreSQL
-
----
-
-### 🏠 HostelNest
-Student accommodation and roommate-finding platform.
-
-Features:
-- Accommodation Listings
-- Roommate Matching
-- Smart Filters
-- College Verification
-- AI WhatsApp Listing Parser
-- Maps Integration
-
-**Tech:** Next.js • Prisma • PostgreSQL • Gemini AI
-
----
-
-### 💳 Credify
-AI-powered financial health and debt optimization platform.
-
-Features:
-- Financial Analytics
-- Debt Repayment Strategies
-- Tax Optimization
-- Savings Goals
-- AI Financial Advisor
-
-**Tech:** Next.js • Flutter • PostgreSQL • Gemini AI • Clerk
-
----
-
-### 🚑 HospiConnect
-Real-time healthcare coordination platform.
-
-Features:
-- Emergency SOS System
-- Smart Hospital Selection
-- Ambulance Tracking
-- Hospital Resource Management
-- AI Symptom Analysis
-
-**Tech:** Flutter • Firebase • Gemini AI
-
----
-
-### 🛡️ Network Intrusion Detection System
-Machine Learning-based cybersecurity system for detecting malicious network activity.
-
-Features:
-- ETL Pipeline
-- Feature Engineering
-- Model Evaluation
-- Intrusion Detection
-
-**Tech:** Python • Scikit-Learn • Pandas
-
 ---
 
 ## 📊 GitHub Analytics
